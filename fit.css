@@ -1,0 +1,41 @@
+body{
+    background-image: url('gym.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+#welcome{
+    color: white;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-left: 400px;
+    
+}
+#para{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#img{
+    
+    width: 100px;
+    height: 100px;
+    padding-left: 565px;
+    padding-top: 40px;
+}
+#contact{
+    color: white;
+    font-size: 20px;
+}
+#gender{
+    color: white;
+}
+.timings{
+    color: white;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
